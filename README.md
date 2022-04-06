@@ -1,6 +1,6 @@
 # Detect Circular RNAs
 
-A pipeline to detect the transcription, translation, and funcitonalities of novel circRNAs. 
+A pipeline to detect the transcription, translation, and functionalities of novel circRNAs. 
 
 Simplified, effective tools for scientists, researchers, and students to use to detect circRNAs in an end-to-end, one-step method.
 

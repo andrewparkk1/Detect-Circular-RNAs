@@ -1,4 +1,4 @@
-# Detect-Circular-RNAs
+# Detect Circular RNAs
 
 A pipeline to detect the transcription, translation, and funcitonalities of novel circRNAs. 
 
